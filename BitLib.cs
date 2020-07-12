@@ -1,4 +1,3 @@
-```c#
 using System;
 namespace BitSharp
 {
@@ -168,4 +167,3 @@ namespace BitSharp
 		}
 		
 	}
-```
